@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow top-level files
+!README.md
+!LICENSE
+!.gitignore
+
+# Allow samples folder
+!samples/
+!samples/README.md
+!samples/samp2buffer.csd
