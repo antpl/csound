@@ -1,12 +1,12 @@
 # samp2buffer
 
-A Csound instrument that loads an audio sample into a buffer table and plays it back through an oscillator with harmonic variations and reverb.
+A Csound instrument that loads an audio sample into a buffer table and plays it back through an oscillator.
 
 ## How it works
 
 1. **Instr 1** loads a sample from disk and loops it. Press any key to capture a segment into a buffer table.
 2. **Instr 2** writes the current audio into the table.
-3. **Instr 3** plays the table back via an oscillator at random harmonic frequencies of 55 Hz, with amplitude variation and stereo panning.
+3. **Instr 3** plays the table back via an oscillator.
 4. **Instr 99** adds reverb to the output.
 
 Each keypress captures a new snippet and triggers a new playback event, allowing layered textures to build up over time.
