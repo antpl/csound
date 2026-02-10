@@ -14,7 +14,6 @@ garev1 init 0
 garev2 init 0
 gkdamp init 1
 
-
 ;; create an empty table
 isize = 2^10 ;; SIZE OF THE TABLE
 gisamp ftgen 0, 0, isize, 7, 0, isize, 0
