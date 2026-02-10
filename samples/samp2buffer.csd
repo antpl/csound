@@ -94,7 +94,7 @@ instr 3 ;; play table via oscillator
 
   outs aout1, aout2
 
-prints "\n playing instr 3 (freq: %.2f) for %.2f seconds ... (%d instances | amplitude: %.2f) \n", ifreq, p3, ii3, i(gkamp)
+prints "\n playing oscillator at freq: %.2f for %.2f seconds ... (%d instances | amplitude: %.2f) \n", ifreq, p3, ii3, i(gkamp)
 
   ;send to reverb
   ksend randomi 0.1, 0.4, 3
