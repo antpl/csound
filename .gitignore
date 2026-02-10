@@ -10,3 +10,7 @@
 !samples/
 !samples/README.md
 !samples/samp2buffer.csd
+
+# Allow physicalmodel folder
+!physicalmodel/
+!physicalmodel/karplusstrong_mikelson.csd
