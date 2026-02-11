@@ -1,6 +1,6 @@
 # Csound
 
-A collection of Csound instruments and experiments. The main focus of this repository is exploring the connection between sound synthesis and composition—specifically. These are simple structures that exemplify the sound synthesis technics. The examples should work out of the box without setting any parameters, except when using samples. Please refer to the specific README for details.
+A collection of Csound instruments and experiments. The main focus of this repository is exploring the connection between sound synthesis and composition. The examples present simple compositional structures that exemplify various sound synthesis techniques. All examples should work out of the box without setting any parameters, except when using samples. Please refer to the specific README for details.
 
 ## Contents
 
