@@ -6,7 +6,7 @@ A collection of Csound instruments and experiments. The main focus of this repos
 
 - [samples](samples/) - Sample-based instruments and buffer experiments
 - [physicalmodel](physicalmodel/) - Physical model instruments
-- [fof](fof/) - Formant Synthesis [fof](https://csound.com/docs/manual/fof.html)
+- [fof](fof/) - Csound Formant Synthesis [fof-manual](https://csound.com/docs/manual/fof.html)
 
 
 ## Requirements
