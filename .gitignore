@@ -14,3 +14,8 @@
 # Allow physicalmodel folder
 !physicalmodel/
 !physicalmodel/karplusstrong_mikelson.csd
+
+# Allow fof folder
+!fof/
+!fof/fof_chaos.csd
+
