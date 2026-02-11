@@ -9,7 +9,7 @@
 ;;
 ;; Author: Luis Antunes Pena
 ;; Original waveguide model: Hans Mikelson
-;; License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+;; License: This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). You are free to use, modify, and distribute this work, provided that derivative works remain under the same license. If you use this outside of academic/educational contexts, please let the author know. See [LICENSE](LICENSE) for the full terms.
 
 <CsoundSynthesizer>
 <CsOptions>
@@ -18,7 +18,7 @@
 <CsInstruments>
 
 sr = 48000
-ksmps = 16
+ksmps = 128
 nchnls = 2
 0dbfs = 1.0
 seed 0
@@ -62,7 +62,7 @@ instr 10 ;controll 1901
   ip2 = 1 - ip1
   kpan expon ip1, idur, ip2
   kamp expseg 1, p3, db(-24)
-  ksend expseg 0.1, p3, 2 ;; the more repetitions and the quieter the sound the more reverb should be heard
+  ksend expseg 0.1, p3, 1 ;; the more repetitions and the quieter the sound the more reverb should be heard
 
   ;; trigger the plucked instrument
   ;;;                                      p4                        p5      p6                  p7    p8

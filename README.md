@@ -1,10 +1,12 @@
 # Csound
 
-A collection of Csound instruments and experiments by Luis Antunes Pena.
+A collection of Csound instruments and experiments. The main focus of this repository is exploring the connection between sound synthesis and composition—specifically. These are simple structures that exemplify the sound synthesis technics. The examples should work out of the box without setting any parameters, except when using samples. Please refer to the specific README for details.
 
 ## Contents
 
 - [samples](samples/) - Sample-based instruments and buffer experiments
+- [physicalmodel](physicalmodel/) - Physical model instruments
+
 
 ## Requirements
 
@@ -12,4 +14,6 @@ A collection of Csound instruments and experiments by Luis Antunes Pena.
 
 ## License
 
-MIT License. Free to use. If you use this outside of academic/educational contexts, please let the author know. See [LICENSE](LICENSE) for details.
+ This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+You are free to use, modify, and distribute this software, provided that any derivative works are also licensed
+under the GPL v3. See [LICENSE](LICENSE) for the full terms.

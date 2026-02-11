@@ -1,3 +1,7 @@
+;; Author: Luis Antunes Pena
+;; License: This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). You are free to use, modify, and distribute this work, provided that derivative works remain under the same license. If you use this outside of academic/educational contexts, please let the author know. See [LICENSE](LICENSE) for the full terms.
+
+
 <CsoundSynthesizer>
 <CsOptions>
 -m0 -d -odac -A -+msg_color=0
@@ -5,7 +9,7 @@
 <CsInstruments>
 
 sr = 48000
-ksmps = 256
+ksmps = 128
 nchnls = 2
 0dbfs = 1.0
 seed 0
