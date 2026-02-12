@@ -7,6 +7,9 @@
 ;; 
 ;; You can run the code also in multichannels by changing the nchnls global variable
 ;;
+;; Table 1 loads the audio file "marmstk1.wav". If you don't have it already
+;; download it here: https://csound.com/docs/manual/examples/marmstk1.wav
+;;
 ;; Author: Luis Antunes Pena
 ;; 
 ;; License: This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). You are free to use, modify, and distribute this work, provided that derivative works remain under the same license. Please let the author know if you use the code. See [LICENSE](LICENSE) for the full terms.
