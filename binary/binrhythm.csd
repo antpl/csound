@@ -3,7 +3,7 @@
 ;; Generates rhythmic patterns from random binary numbers.
 ;; A random integer is converted to its binary representation,
 ;; and the resulting bit pattern (1s and 0s) drives a plucked
-;; string synthesizer to create evolving rhythmic sequences.
+;; percussion instrument
 ;;
 ;; Author: Luis Antunes Pena
 ;; License: This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html). You are free to use, modify, and distribute this work, provided that derivative works remain under the same license. Please let the author know if you use the code. See [LICENSE](LICENSE) for the full terms.
