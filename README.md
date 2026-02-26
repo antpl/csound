@@ -7,7 +7,7 @@ A collection of Csound instruments and experiments. The main focus of this repos
 - [samples](samples/) - Sample-based instruments and buffer experiments
 - [physicalmodel](physicalmodel/) - Physical model instruments
 - [fof](fof/) - Csound Formant Synthesis [fof-manual](https://csound.com/docs/manual/fof.html)
-- [binary](binary/) - Use a binary number to generate rhythm like in a sequencer 
+- [binary](binary/) - Use a binary number to generate rhythm like with a sequencer 
 
 
 ## Requirements
