@@ -14,8 +14,14 @@
 # Allow physicalmodel folder
 !physicalmodel/
 !physicalmodel/karplusstrong_mikelson.csd
+!physicalmodel/vibes_example.csd
+!physicalmodel/mel_vertical.csd
 
 # Allow fof folder
 !fof/
 !fof/fof_chaos.csd
+
+# Allow binary folder
+!binary/
+!binary/binrhythm.csd
 
